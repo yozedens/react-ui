@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    // 为测试文件添加 vitest 全局类型（describe, it, expect 等）
+    "types": ["node", "vitest/globals"]
+  },
+  "include": ["src"]
+}
