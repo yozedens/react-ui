@@ -2,7 +2,7 @@
 
 生产级 React 组件库模板，基于 Vite + TypeScript + CSS Modules。
 
-[![CI](https://github.com/your-username/react-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/react-ui/actions)
+[![CI](https://github.com/yozedens/react-ui/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/react-ui/actions)
 [![npm version](https://img.shields.io/npm/v/@zdyumath/react-ui)](https://www.npmjs.com/package/@zdyumath/react-ui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
